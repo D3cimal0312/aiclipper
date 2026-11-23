@@ -1,0 +1,36 @@
+{
+  "show": "Kai Cenat",
+  "required_name": "Kai Cenat",
+  "required_hashtag": "#KAICENAT",
+  "hashtag": "#KAICENAT",
+  "context": " from the live stream of Kai Cenat playing GTA VI (funny moments, memorable quotes, reactions)",
+  "pick_guidance": "- This is a livestream of the streamer Kai Cenat playing GTA VI. Pick FUNNY MOMENTS, MEMORABLE QUOTES and big REACTIONS (screaming, laughing, disbelief, hype). Kai's voice and reaction must carry the clip.\n- Skip: arguments, insults, anything that mocks or embarrasses him or anyone, dead air, chat reading with no reaction, and any speech that is not English.",
+  "tone_rules": "- Tone: fun, hype and positive. Never insult, mock, shame or portray Kai Cenat or anyone negatively. No fake drama: do not imply a fight, a cancellation, a scandal or anything that did not happen in the clip.",
+  "characters": ["Kai Cenat"],
+  "description_keywords": "Kai Cenat plays GTA VI (Grand Theft Auto VI) live. Fan-made clip, not affiliated with Rockstar Games.",
+  "source_credit": "Source: Kai Cenat's GTA VI marathon livestream.",
+  "base_tags": [
+    "Kai Cenat", "KAICENAT", "Kai Cenat GTA 6", "Kai Cenat GTA VI", "Kai Cenat funny moments",
+    "Kai Cenat clips", "Kai Cenat stream", "Kai Cenat reaction", "GTA 6", "GTA VI",
+    "GTA 6 funny moments", "GTA 6 reaction", "streamer moments", "gaming shorts"
+  ],
+  "extra_hashtags": {
+    "youtube": ["#GTA6", "#Shorts"],
+    "tiktok": ["#GTA6", "#kaicenatclips", "#fyp"]
+  },
+  "banned_words": [
+    "ugly", "stupid", "idiot", "dumb", "trash", "garbage", "cringe", "loser", "pathetic",
+    "embarrassing", "humiliated", "exposed", "cancelled", "washed", "flop", "scam", "hate",
+    "disgusting", "clown", "meltdown"
+  ],
+  "mandatory_line": "",
+  "mandatory_line_required": false,
+  "category": "Gaming",
+  "emojis": ["😂", "💀", "🔥", "🤯"],
+  "audience_utc_offset": -5,
+  "defaults": {
+    "clips": 8, "min": 12, "max": 30, "language": "en", "title_seconds": 2,
+    "layout": "stack", "facecam": "auto",
+    "post_times": "12:00,17:00,20:00", "prefilter": 0
+  }
+}

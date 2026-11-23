@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+clips/
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.ass
+channel_private*.json
